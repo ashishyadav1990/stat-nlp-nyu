@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Ashish
+   last: Yadav
+email: ay937@nyu.edu
+leaderboard: Ashish_Yadav
