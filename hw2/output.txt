@@ -1,4 +1,4 @@
-﻿Error: Acet-2 guess=drug gold= confidence=1.0
+Error: Acet-2 guess=drug gold= confidence=1.0
 Error: Actifed Cold & Sinus Caplets 26 guess=drug gold= confidence=1.0
 Error: Actigall guess=place gold= confidence=0.9496665721730235
 Error: Actisite guess=drug gold= confidence=1.0
