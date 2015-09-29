@@ -1,0 +1,11 @@
+Language - 9.34
+Sri - 9.67
+Bigram - 7.40
+Trigram - 7.00
+Katz-Bigram - 7.67
+Katz-Trigram - 7.00
+New Trigram(lambda1 = 0.6,0.3) - 7.40
+New Trigram2(lambda1 = 0.4,0.3) - 7.87
+New Trigram3(lambda1 = 0.4, lambda = 0.4) - 7.14
+New Trigram4(lambda1 = 0.3, lambda = 0.5) - 7.47
+New Katz-Trigram1(lambda1 = 0.4, lambda = 0.4) - 7.14
