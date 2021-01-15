@@ -1,4 +1,4 @@
-stat-nlp-nyu
-============
+Statistical-NLP-NYU
+===================
 
-Statistical Natural Language Processing at NYU
+Material related to the Statistical Natural Language Processing course at NYU
